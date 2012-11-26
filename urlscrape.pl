@@ -15,6 +15,10 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+# Credits:
+#   This plugin was inspired by a similar system written by Eric Harmon. The
+#   web page design came straight from his version.
+#
 # Depends:
 #   DateTime (libdatetime-perl)
 #   DateTime::Format::Strptime (libdatetime-format-strptime-perl)
